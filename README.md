@@ -6,12 +6,12 @@ SEL 0629 - APLICAÇÃO DE MICROPROCESSADORES I
 
 Para baixar a versão mais nova do SimulIDE, siga esse passo a passo abaixo.
 
- 1. Acesse o site do [SimulIDE]([https://simulide.blogspot.com/](https://simulide.blogspot.com/));
- 2. Clique na aba de [Downloads]([https://simulide.blogspot.com/p/downloads.html](https://simulide.blogspot.com/p/downloads.html));
+ 1. Acesse o site do [SimulIDE](https://simulide.blogspot.com/);
+ 2. Clique na aba de [Downloads](https://simulide.blogspot.com/p/downloads.html);
  
  ![](https://github.com/LAVI-USP/SEL0629/blob/master/images/download_1.png)
  
- 3. Clique em **SimulIDE 0.3.12-SR8** ou na versão mais nova que te levará para o [repositório]([https://www.patreon.com/posts/simulide-0-3-12-35657927](https://www.patreon.com/posts/simulide-0-3-12-35657927)) do SimulIDE.
+ 3. Clique em **SimulIDE 0.3.12-SR8** ou na versão mais nova que te levará para o [repositório](https://www.patreon.com/posts/simulide-0-3-12-35657927) do SimulIDE.
  
   ![](https://github.com/LAVI-USP/SEL0629/blob/master/images/download_2.png)
   
